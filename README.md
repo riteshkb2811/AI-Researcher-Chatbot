@@ -104,5 +104,5 @@ Open your browser at `http://localhost:8501` to start chatting!
 ---
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](MIT License).
 
